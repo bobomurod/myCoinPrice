@@ -1,0 +1,11 @@
+{
+  "name": "mycoinprice",
+  "version": "1.0.0",
+  "description": "I will collect lot of script and ways to check cryptocurrency prices, you are welcome!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
